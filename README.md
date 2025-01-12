@@ -70,7 +70,7 @@ Admin:
 cd admin
 npm run dev
 ```
-5. **Open localhost port running in your browser to use the app**.
+5. **Open localhost port running in your browser to use the app**. <br>
 Future Enhancements
 
     Integration with real-time delivery tracking.
