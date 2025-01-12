@@ -54,7 +54,7 @@ JWT_SECRET=your-secret-word-any
 STRIPE_SECRET_KEY=your-stripe-secret-key
 ```
 
-4.**Run the application**:
+4. **Run the application**:
 Backend:
 ```bash
 cd backend
@@ -70,7 +70,7 @@ Admin:
 cd admin
 npm run dev
 ```
-5.**Open localhost port running in your browser to use the app**.
+5. **Open localhost port running in your browser to use the app**.
 Future Enhancements
 
     Integration with real-time delivery tracking.
