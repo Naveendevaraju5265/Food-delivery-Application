@@ -89,4 +89,4 @@ Add new Food items(admin): <br>
 List of all Food items(admin): <br>
 <img width="946" alt="Screenshot 2025-01-12 130135" src="https://github.com/user-attachments/assets/40de83c3-dc53-4ae0-80cd-3df5f89e5aec" /> <br>
 List of all Orders(admin): <br>
-<img width="948" alt="Screenshot 2025-01-12 130150" src="https://github.com/user-attachments/assets/acdde55c-9214-4f2a-8ad9-d6cc5820ec39" />
+<img width="948" alt="Screenshot 2025-01-12 130150" src="https://github.com/user-attachments/assets/acdde55c-9214-4f2a-8ad9-d6cc5820ec39" /> <br>
