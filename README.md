@@ -81,7 +81,7 @@ Home Page-1: <br>
 Home Page-2: <br>
 <img width="948" alt="Screenshot 2025-01-12 125808" src="https://github.com/user-attachments/assets/017ef775-6ac3-4eb0-b690-5c29d8dcc698" /> <br>
 Login Page: <br>
-<img width="947" alt="Screenshot 2025-01-12 220132" src="https://github.com/user-attachments/assets/b0085a9f-2775-419e-bc4d-63c1ae2dcf5c" />
+<img width="947" alt="Screenshot 2025-01-12 220132" src="https://github.com/user-attachments/assets/b0085a9f-2775-419e-bc4d-63c1ae2dcf5c" /> <br>
 Cart: <br>
 <img width="947" alt="Screenshot 2025-01-12 125926" src="https://github.com/user-attachments/assets/5b93097a-3385-4f58-bf61-66df10578102" /> <br>
 Payment Gateway: <br>
