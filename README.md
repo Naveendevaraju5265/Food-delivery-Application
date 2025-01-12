@@ -71,8 +71,9 @@ cd admin
 npm run dev
 ```
 5. **Open localhost port running in your browser to use the app**. <br>
-Future Enhancements
-
-    Integration with real-time delivery tracking.
-    Email or SMS notifications for order updates.
-    User profile management and order history.
+6. **Future Enhancements**:
+    Integration with real-time delivery tracking.<br>
+    Email or SMS notifications for order updates.<br>
+    User profile management and order history.<br>
+7. **Screenshots**:
+8. 
