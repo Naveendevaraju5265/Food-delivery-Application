@@ -76,4 +76,17 @@ npm run dev
     Email or SMS notifications for order updates.<br>
     User profile management and order history.<br>
 7. **Screenshots**: <br>
-Home Page-1:
+Home Page-1: <br>
+<img width="948" alt="Screenshot 2025-01-12 125829" src="https://github.com/user-attachments/assets/4b74ccb4-35d4-4926-93b5-456607008da4" /> <br>
+Home page-2: <br>
+<img width="948" alt="Screenshot 2025-01-12 125808" src="https://github.com/user-attachments/assets/017ef775-6ac3-4eb0-b690-5c29d8dcc698" /> <br>
+Cart: <br>
+<img width="947" alt="Screenshot 2025-01-12 125926" src="https://github.com/user-attachments/assets/5b93097a-3385-4f58-bf61-66df10578102" /> <br>
+Payment Gateway: <br>
+<img width="945" alt="Screenshot 2025-01-12 150908" src="https://github.com/user-attachments/assets/6558d427-690e-4b71-b2d5-df427ffddf3b" /> <br>
+Add new Food items(admin): <br>
+<img width="947" alt="Screenshot 2025-01-12 130115" src="https://github.com/user-attachments/assets/c3510766-89bc-48cc-b5cd-f6854f8f4253" /> <br>
+List of all Food items(admin): <br>
+<img width="946" alt="Screenshot 2025-01-12 130135" src="https://github.com/user-attachments/assets/40de83c3-dc53-4ae0-80cd-3df5f89e5aec" /> <br>
+List of all Orders(admin): <br>
+<img width="948" alt="Screenshot 2025-01-12 130150" src="https://github.com/user-attachments/assets/acdde55c-9214-4f2a-8ad9-d6cc5820ec39" />
